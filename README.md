@@ -109,7 +109,8 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
   * [PyBitShares](https://t.me/pybitshares) - Focus on python-bitshares development.
   * [PoolTool](https://t.me/pooltool_community_edition) - Dicussions about PoolTool.
   * [BeetApp](https://t.me/beetapp) - Focus on beetapp development.
-  * [DEXBot](https://t.me/DEXBOTbts) - Focus on DEXBot development.
+  * [DEXBot](https://t.me/DEXBOTbts) - Original DEXBot group.
+  * [DEXBot2](https://t.me/DEXBot_2) - New DEXBot2 group.
   * Committee - (invite only) For committee members.
   * Witnesses - (invite only) For block producers.
 * [Discord - BitShares](https://discord.gg/6V2RdsJXX3)
@@ -253,7 +254,8 @@ Libraries capable of communicating with the BitShares blockchain.
 
 ### Tools and Scripts
 
-* [DEXBot](https://github.com/Codaone/DEXBot) - Market Maker bot
+* [DEXBot](https://github.com/Codaone/DEXBot) - Market Maker in Python, unmaintained
+* [DEXBot2](https://github.com/froooze/DEXBot) - Complete rewrite in JS
 * [extinction-event](https://github.com/litepresence/extinction-event) - bitsharesQUANT Distributed Exchange Algo Trading Framework
 * [bitshares-scripts](https://github.com/bitfag/bitshares-scripts) - a set of python scripts.
 * [bitshares-tradehistory-analyzer](https://github.com/bitfag/bitshares-tradehistory-analyzer) - a set of scripts for exporting and analyzing trading history.
